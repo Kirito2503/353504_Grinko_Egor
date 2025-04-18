@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\iintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\iintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\inmemoryintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\inmemoryintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\inmemorytestresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\inmemorytestresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\inmemorytonalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\inmemorytonalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\intervaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\intervaltestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\itestresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\itestresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\itonalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\itonalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\quintcircleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\quintcircleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\tonality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\tonality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\functionality_et\\functionality_et.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{675D10C1-70B8-488C-B5FD-F868983C2D83}|Functionality_ET\\Functionality_ET.csproj|solutionrelative:functionality_et\\functionality_et.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\functionality_et\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2ECF7C-CA63-41D7-AD7F-23FBBE55EDC0}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Functionality_ET",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Functionality_ET.csproj",
+              "RelativeDocumentMoniker": "Functionality_ET\\Functionality_ET.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Functionality_ET.csproj",
+              "RelativeToolTip": "Functionality_ET\\Functionality_ET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T00:15:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test5.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test5.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test5.cs*",
+              "RelativeToolTip": "TestProject1\\Test5.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:06:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test4.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test4.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test4.cs*",
+              "RelativeToolTip": "TestProject1\\Test4.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:06:01.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test3.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test3.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test3.cs",
+              "RelativeToolTip": "TestProject1\\Test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:01:52.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test2.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test2.cs",
+              "RelativeToolTip": "TestProject1\\Test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:58:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:51:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:51:07.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tonality.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Tonality.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\Tonality.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Tonality.cs",
+              "RelativeToolTip": "Functionality_ET\\Tonality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:30.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\TestResult.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\TestResult.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\TestResult.cs",
+              "RelativeToolTip": "Functionality_ET\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interval.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Interval.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\Interval.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Interval.cs",
+              "RelativeToolTip": "Functionality_ET\\Interval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryTonalityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryTonalityRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\InMemoryTonalityRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryTonalityRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\InMemoryTonalityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:13.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIntervalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\IIntervalRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\IIntervalRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\IIntervalRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\IIntervalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITonalityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\ITonalityRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\ITonalityRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\ITonalityRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\ITonalityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:48:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryIntervalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryIntervalRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\InMemoryIntervalRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryIntervalRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\InMemoryIntervalRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:42:57.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntervalTestService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\IntervalTestService.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\IntervalTestService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\IntervalTestService.cs",
+              "RelativeToolTip": "Functionality_ET\\IntervalTestService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:41:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuintCircleService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\QuintCircleService.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\QuintCircleService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\QuintCircleService.cs",
+              "RelativeToolTip": "Functionality_ET\\QuintCircleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:40:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\StatisticsService.cs",
+              "RelativeToolTip": "Functionality_ET\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:39:28.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITestResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\ITestResultRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\ITestResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\ITestResultRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\ITestResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:38:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryTestResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryTestResultRepository.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\InMemoryTestResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\InMemoryTestResultRepository.cs",
+              "RelativeToolTip": "Functionality_ET\\InMemoryTestResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:37:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Program.cs",
+              "RelativeDocumentMoniker": "Functionality_ET\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Functionality_ET\\Functionality_ET\\Program.cs",
+              "RelativeToolTip": "Functionality_ET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:36:13.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
